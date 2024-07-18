@@ -1,0 +1,2 @@
+# DotCoinBot
+DotCoinBot App AutoClicker
