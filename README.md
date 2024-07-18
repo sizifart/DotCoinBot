@@ -1,5 +1,5 @@
 # DotCoinBot
-🖱️ clicker for [https://t.me/dotcoin_bott](https://t.me/dotcoin_bot?start=r_558455838)
+🖱️ clicker for [https://t.me/dotcoin_bot](https://t.me/dotcoin_bot?start=r_558455838)
 
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
